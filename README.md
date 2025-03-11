@@ -21,4 +21,6 @@ The **Neon Futuristic Calculator** is a next-generation digital calculator desig
 
 🚀 **Interactive Hover Effects:** Buttons glow and scale dynamically upon interaction, adding to the immersive cyber-futuristic theme.  
 
+DEPLOY LINK FROM NETLIFY (https://neon-calculator-bs.netlify.app/)
+
 This **BS Futuristic Calculator** is more than just a tool—it’s a **statement of innovation and creativity**. Whether for quick math or complex equations, it delivers a smooth, stylish, and professional experience!  
